@@ -1,0 +1,23 @@
+[
+    {
+        "day":1,
+        "topic":"Arrays",
+        "question":[
+            "Left Rotate an Array by one place",
+             "Left Rotate an Array by D places"
+        ],
+        "learnings":"Learned about rotation logic using temporary variables and modular indexing. Practiced dry runs and optimized code.",
+        "posted":false
+    },
+    {
+    "day": 2,
+    "topic": "Arrays",
+    "questions": [
+      "Move zeros to end",
+      "Find missing number in an array"
+    ],
+    "learnings": "",
+    "image":"",
+    "posted": false
+  }
+]
