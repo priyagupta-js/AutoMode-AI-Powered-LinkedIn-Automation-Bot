@@ -19,5 +19,16 @@
     "learnings": "",
     "image":"",
     "posted": false
+  },
+  {
+    "day": 3,
+    "topic": "Arrays",
+    "questions": [
+      "Maximum Consecutive Ones",
+      "Find the number that appears once, and other numbers twice."
+    ],
+    "learnings": "",
+    "image":"",
+    "posted": false
   }
 ]
