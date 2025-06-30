@@ -2,7 +2,7 @@
     {
         "day":1,
         "topic":"Arrays",
-        "question":[
+        "questions":[
             "Left Rotate an Array by one place",
              "Left Rotate an Array by D places"
         ],
